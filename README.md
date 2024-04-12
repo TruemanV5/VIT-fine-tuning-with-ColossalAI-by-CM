@@ -19,6 +19,8 @@ bash run_demo.sh
 ```
 During this process, we will finetuned the VIT base on Beans Dataset(https://huggingface.co/datasets/AI-Lab-Makerere/beans)
 
+IF you want to have a try, you could find all the code in the CS5260_Ass6.ipynb
+
 ## Configuration
 
 The basic configuration settings used are:
