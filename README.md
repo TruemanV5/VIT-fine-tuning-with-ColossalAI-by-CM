@@ -17,6 +17,7 @@ Run the demonstration script:
 ```bash
 bash run_demo.sh
 ```
+During this process, we will finetuned the VIT base on Beans Dataset(https://huggingface.co/datasets/AI-Lab-Makerere/beans)
 
 ## Configuration
 
